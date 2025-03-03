@@ -1,4 +1,4 @@
-module example.com/http
+module example.com/api
 
 go 1.23.2
 
